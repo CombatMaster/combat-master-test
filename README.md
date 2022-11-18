@@ -1,2 +1,10 @@
 # combat-master-test.github.io
-My Two Test Site
+<!DOCTYPE.html>
+<html>
+<head>
+  <title>Test</title>
+</head>  
+<body>
+  <h1>Hi</h1>
+</body>  
+</html>
