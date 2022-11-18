@@ -1,10 +1,5 @@
 # combat-master-test.github.io
-<!DOCTYPE.html>
-<html>
-<head>
-  <title>Test</title>
-</head>  
-<body>
-  <h1>Hi</h1>
-</body>  
-</html>
+```
+print("Hello World!")
+say = str(input())
+```
